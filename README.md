@@ -10,6 +10,10 @@ Demo
 ## How to use
 
 ```JavaScript 
+
+// Install from NPM
+npm i randomwordanimation
+
 // Config for Random Word
 RandomWord({
   dataText: [], // Words to be shuffled as animation 
@@ -21,17 +25,9 @@ RandomWord({
 
 here a example to use random word :
 
-<p>Install From NPM</p>
-``` npm i randomwordanimation ```
-
-<p> Download my script file in</p>
-`script/src/main.js`
-<p></p>
-
 ```JavaScript  
 
 // call the random word
-
 import RandomWord from "./script/src/main.js";
 
 RandomWord({
