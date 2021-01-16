@@ -21,8 +21,12 @@ RandomWord({
 
 here a example to use random word :
 
-Install From NPM or Download my script file in `script/src/main.js`
+<p>Install From NPM</p>
 ``` npm i randomwordanimation ```
+
+<p> Download my script file in</p>
+`script/src/main.js`
+<p></p>
 
 ```JavaScript  
 
