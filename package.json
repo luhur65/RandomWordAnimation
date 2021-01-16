@@ -1,0 +1,15 @@
+{
+  "name": "randomwordanimation",
+  "version": "1.0.0",
+  "description": "Random Word is a package to create random word animation and generate randomized words based on word data provided by the user.",
+  "main": "script/src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "randomword",
+    "generate-random-word"
+  ],
+  "author": "@luhur65",
+  "license": "ISC"
+}
