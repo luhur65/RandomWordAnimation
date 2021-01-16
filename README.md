@@ -21,6 +21,9 @@ RandomWord({
 
 here a example to use random word :
 
+Install From NPM or Download my script file in `script/src/main.js`
+``` npm i randomwordanimation ```
+
 ```JavaScript  
 
 // call the random word
