@@ -26,4 +26,4 @@ const RandomWord = (config = {
 
 }
 
-export default RandomWord;
+module.exports = RandomWord;
